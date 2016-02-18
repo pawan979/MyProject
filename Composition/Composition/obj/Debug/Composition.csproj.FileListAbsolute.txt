@@ -1,0 +1,8 @@
+c:\users\pgooly\documents\visual studio 2013\Projects\Composition\Composition\bin\Debug\Composition.exe.config
+c:\users\pgooly\documents\visual studio 2013\Projects\Composition\Composition\bin\Debug\Composition.exe
+c:\users\pgooly\documents\visual studio 2013\Projects\Composition\Composition\bin\Debug\Composition.pdb
+c:\users\pgooly\documents\visual studio 2013\Projects\Composition\Composition\obj\Debug\Composition.csprojResolveAssemblyReference.cache
+c:\users\pgooly\documents\visual studio 2013\Projects\Composition\Composition\obj\Debug\Composition.Properties.Resources.resources
+c:\users\pgooly\documents\visual studio 2013\Projects\Composition\Composition\obj\Debug\Composition.csproj.GenerateResource.Cache
+c:\users\pgooly\documents\visual studio 2013\Projects\Composition\Composition\obj\Debug\Composition.exe
+c:\users\pgooly\documents\visual studio 2013\Projects\Composition\Composition\obj\Debug\Composition.pdb
