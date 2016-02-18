@@ -1,0 +1,5 @@
+C:\Users\pgooly\Documents\Visual Studio 2013\Projects\Factory Pattern\bin\Factory Pattern.dll.config
+C:\Users\pgooly\Documents\Visual Studio 2013\Projects\Factory Pattern\bin\Factory Pattern.dll
+C:\Users\pgooly\Documents\Visual Studio 2013\Projects\Factory Pattern\bin\Factory Pattern.pdb
+C:\Users\pgooly\Documents\Visual Studio 2013\Projects\Factory Pattern\obj\Debug\Factory Pattern.dll
+C:\Users\pgooly\Documents\Visual Studio 2013\Projects\Factory Pattern\obj\Debug\Factory Pattern.pdb
