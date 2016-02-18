@@ -1,0 +1,6 @@
+c:\users\pgooly\documents\visual studio 2013\Projects\Singleton_Observer\bin\Singleton_Observer.dll.config
+c:\users\pgooly\documents\visual studio 2013\Projects\Singleton_Observer\bin\Singleton_Observer.dll
+c:\users\pgooly\documents\visual studio 2013\Projects\Singleton_Observer\bin\Singleton_Observer.pdb
+c:\users\pgooly\documents\visual studio 2013\Projects\Singleton_Observer\obj\Debug\Singleton_Observer.csprojResolveAssemblyReference.cache
+c:\users\pgooly\documents\visual studio 2013\Projects\Singleton_Observer\obj\Debug\Singleton_Observer.dll
+c:\users\pgooly\documents\visual studio 2013\Projects\Singleton_Observer\obj\Debug\Singleton_Observer.pdb

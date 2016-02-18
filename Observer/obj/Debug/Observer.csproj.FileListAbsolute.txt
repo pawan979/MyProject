@@ -1,0 +1,5 @@
+C:\Users\pgooly\Documents\Visual Studio 2013\Projects\Observer\bin\Singleton_Observer.dll.config
+C:\Users\pgooly\Documents\Visual Studio 2013\Projects\Observer\bin\Singleton_Observer.dll
+C:\Users\pgooly\Documents\Visual Studio 2013\Projects\Observer\bin\Singleton_Observer.pdb
+C:\Users\pgooly\Documents\Visual Studio 2013\Projects\Observer\obj\Debug\Singleton_Observer.dll
+C:\Users\pgooly\Documents\Visual Studio 2013\Projects\Observer\obj\Debug\Singleton_Observer.pdb
